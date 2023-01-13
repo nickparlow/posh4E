@@ -1,0 +1,13 @@
+{
+"Name": "Enterprise",
+"Designation": "NCC-1701",
+"Captain": {
+	"First Name": "James",
+    "Initial": "T",
+	"Last Name": "Kirk"
+	},
+"Bridge Crew" : ["Uhura", "Spock", "Sulu", "Chekhov", "Riley"],
+"Photon Torpedoes": 240000000,
+"Jedi Name": null,
+"Is Awesome": true
+}
